@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "rick_morty_webapp.Controllers.RickMortyController",
+    "Method": "GetCharacter",
+    "RelativePath": "api/RickMorty/{characterId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "characterId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "rick_morty_webapp.Models.Characters",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

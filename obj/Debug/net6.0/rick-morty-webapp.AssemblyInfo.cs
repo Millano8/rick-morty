@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rick-morty-webapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+748c1bb05f524852ee9692dc82dee95cb041f87c")]
 [assembly: System.Reflection.AssemblyProductAttribute("rick-morty-webapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rick-morty-webapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
